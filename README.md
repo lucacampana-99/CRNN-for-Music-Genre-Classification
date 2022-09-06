@@ -6,7 +6,7 @@ Deep Learning techniques to build a 10-genres music classificator, exploiting th
 
 Dataset: GTZAN - Music Genre Classification. https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification, 2002.
 
-Techniques used: data augmentation (track pitch shifting, gaussian noise addition), MFCC conversion, overlapping window splitting, majority voting, batch normalization, dropout, early stopping, adaptive Learning Rate.
+Techniques used: data augmentation (track pitch shifting, gaussian noise addition), MFCC conversion, non-overlapping window splitting, majority voting, batch normalization, dropout, early stopping, adaptive Learning Rate.
 
 Model used: Convolutional-Recurrent Neural Network.
 
